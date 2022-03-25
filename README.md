@@ -1,5 +1,8 @@
 ## Ethy
 
+https://img.shields.io/npm/v/ethy
+![npm bundle size](https://img.shields.io/bundlephobia/min/ethy)
+
 A tiny command line utility for learning and developing on Ethereum.
 
 Implemented as a commanderJS wrapper around the ethersJS, where possible it uses the same function signatures.
